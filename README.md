@@ -10,9 +10,8 @@ This repository contains all the lab exercises, assignments, and sample programs
 - Database integration (MongoDB / SQL) *(if applicable)*  
 - Authentication and Middleware *(if applicable)*  
 
-## 🚀 Getting Started  
 
-### 1. Clone the Repository  
+### Clone the Repository  
 ```bash
 git clone https://github.com/your-username/backend-lab.git
 cd backend-lab
